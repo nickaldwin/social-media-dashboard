@@ -1,2 +1,2 @@
 # social-media-dashboard
-a challange form FrontendMentor
+- a challange form FrontendMentor
